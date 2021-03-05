@@ -1,0 +1,14 @@
+{
+    "name": "school/qr-uebung",
+    "description": "Epic project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SwipSwup",
+            "email": "7270@htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^4.0"
+    }
+}
